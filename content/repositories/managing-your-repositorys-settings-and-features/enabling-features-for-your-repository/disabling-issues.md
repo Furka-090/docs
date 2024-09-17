@@ -17,7 +17,7 @@ topics:
 {% data reusables.repositories.sidebar-settings %}
 1. Under "Features," deselect **Issues**.
 
-If you decide to enable issues again in the future, any issues that were previously added will be available.
+If you decide to enable issues again in the future, any issues that were previously added will be availa kible.
 
 {% ifversion fpt or ghec %}
 
